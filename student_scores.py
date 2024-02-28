@@ -3,7 +3,7 @@ highest_score = 0
 highest_index = -1
 for n in range(0, len(student_scores)):
     student_scores[n] = int(student_scores[n])
-for k in range (0, len(student_scores)):
+for k in range(0, len(student_scores)):
     if student_scores[k] > highest_score:
         highest_score = student_scores[k]
         highest_index = student_scores.index(highest_score)
