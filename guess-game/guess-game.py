@@ -1,5 +1,6 @@
 import random
 
+"""test commit"""
 game_level = input("Select level by writing 'easy' or 'hard' \n")
 
 lives = 0
