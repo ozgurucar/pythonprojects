@@ -1,3 +1,5 @@
+"""test commit"""
+
 student_scores = input("Enter student scores: ").split()
 highest_score = 0
 highest_index = -1
